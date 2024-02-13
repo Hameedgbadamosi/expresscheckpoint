@@ -11,7 +11,7 @@ app.post('/', (req, res) => {
 });
 
 app.put('/', (req, res) => {
-  res.send('Hello Wdfghjorld!');
+  res.send('Hello Bjorld!');
 });
 
 app.listen(port, () => {
